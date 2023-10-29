@@ -1,0 +1,14 @@
+ex01.ipynb: Léonardo BASBOUS (leonardo.basbous@epitech.eu)
+ex01.1.pdf: Léonardo BASBOUS (leonardo.basbous@epitech.eu)
+ex01.3.pdf: Léonardo BASBOUS (leonardo.basbous@epitech.eu)
+
+ex02.ipynb: Chrysalde CARON (chrysalde.caron@epitech.eu)
+debug_printers.py: Chrysalde CARON (chrysalde.caron@epitech.eu)
+save_and_load.py: Chrysalde CARON (chrysalde.caron@epitech.eu)
+tes_matching: Chrysalde CARON (chrysalde.caron@epitech.eu)
+
+ex03.pdf: Loris REGGIANI (loris.reggiani@epitech.eu)
+
+ex04.ipynb: Chrysalde CARON (chrysalde.caron@epitech.eu)
+ex04Eulerian: Loris REGGIANI (loris.reggiani@epitech.eu) 
+exo4.3.pdf: Léonardo BASBOUS (leonardo.basbous@epitech.eu)
